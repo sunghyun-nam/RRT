@@ -1,4 +1,4 @@
-# RRT and RRT STAR and DRT
+# RRT and RRT STAR
 obstacle origin RRT / obstacle modified RRT
 obstacle origin RRTSTAR / obstacle modified RRTSTAR
 obstacle DRT
