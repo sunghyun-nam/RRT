@@ -16,3 +16,7 @@ origin RRTSTAR
 modified RRTSTAR / DRT
 - cost function 준 부분을 수정해야함(아직 안함) -> origin RRTSTAR 참고해서 하시면 되요 
 - 거리와 각도의 차원이 다른데 그냥 더해버림..ㅜ
+
+수정해야 할 것 
+PathRefine()이 주석처리된 코드는 작성된 코드상에서 사용할 수 없고 수정을 하셔야 합니다;;
+아니면 waypoint를 설정하고 waypoint + 1만큼 RRT()를 실행하시면 됩니다.
