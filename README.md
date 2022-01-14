@@ -19,4 +19,4 @@ modified RRTSTAR / DRT
 
 수정해야 할 것 
 PathRefine()이 주석처리된 코드는 작성된 코드상에서 사용할 수 없고 수정을 하셔야 합니다;;
-아니면 waypoint를 설정하고 waypoint + 1만큼 RRT()를 실행하시면 됩니다.
+아니면 waypoint를 설정하고 waypoint + 1만큼 RRT()를 실행하시면 됩니다. (RRT_cpp 참고)
